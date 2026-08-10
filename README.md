@@ -127,6 +127,29 @@ An end-to-end financial intelligence platform covering synthetic banking data, q
 
 Building: data generation → ingestion → quality testing → warehouse models → BI dashboards → fraud and AI services
 
+🛒 RetailFlow Cloud & AI Data Platform — Retail Data & AI Operations Platform
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-F59E0B?style=for-the-badge" alt="In development" />
+
+An end-to-end retail data platform built on intentionally dirty synthetic Parquet source data — Bronze/Silver/Gold ingestion and cleaning, a Snowflake warehouse, parallel AWS and Azure implementations, a Databricks mini-lab, Power BI dashboards, and an n8n-orchestrated agentic AI operations layer.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&amp;logo=snowflake&amp;logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&amp;logo=databricks&amp;logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square" alt="Agentic AI" />
+</p>
+
+Building: dirty Parquet source data → Bronze/Silver/Gold pipeline → Snowflake &amp; Databricks mini-lab (AWS + Azure) → Power BI dashboards → n8n agentic AI operations
+
+<p>
+  <a href="https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="RetailFlow repository" /></a>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -194,6 +217,18 @@ Building: data generation → ingestion → quality testing → warehouse models
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nainpatel028&amp;theme=github_dark" alt="Repositories by language" />
 
 </div>
+
+📅 Recent GitHub Activity
+
+<!-- RECENT-ACTIVITY:START -->
+- Pushed commit(s) to [`main`](https://github.com/nainpatel028/nainpatel028/tree/main) in [nainpatel028/nainpatel028](https://github.com/nainpatel028/nainpatel028) — 2026-08-10 03:17 UTC
+- Pushed commit(s) to [`main`](https://github.com/nainpatel028/nainpatel028/tree/main) in [nainpatel028/nainpatel028](https://github.com/nainpatel028/nainpatel028) — 2026-08-10 03:12 UTC
+- Created branch `main` in [nainpatel028/nainpatel028](https://github.com/nainpatel028/nainpatel028) — 2026-08-10 03:07 UTC
+- Starred [nainpatel028/olympic_data_analysis](https://github.com/nainpatel028/olympic_data_analysis) — 2026-07-25 01:46 UTC
+- Starred [nainpatel028/chatbot](https://github.com/nainpatel028/chatbot) — 2026-07-25 01:46 UTC
+- Starred [nainpatel028/skin-cancer](https://github.com/nainpatel028/skin-cancer) — 2026-07-25 01:46 UTC
+- Starred [nainpatel028/SkinCancerDetection_final](https://github.com/nainpatel028/SkinCancerDetection_final) — 2026-07-25 01:46 UTC
+<!-- RECENT-ACTIVITY:END -->
 
 🤝 Let's Connect
 
