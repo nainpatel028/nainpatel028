@@ -221,13 +221,7 @@ Building: dirty Parquet source data → Bronze/Silver/Gold pipeline → Snowflak
 📅 Recent GitHub Activity
 
 <!-- RECENT-ACTIVITY:START -->
-- Pushed commit(s) to [`feature/rf-011-aws-cloud-foundation`](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform/tree/feature/rf-011-aws-cloud-foundation) in [nainpatel028/RetailFlow-Cloud-AI-Data-Platform](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) — 2026-08-18 01:49 UTC
-- Pushed commit(s) to [`feature/rf-011-aws-cloud-foundation`](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform/tree/feature/rf-011-aws-cloud-foundation) in [nainpatel028/RetailFlow-Cloud-AI-Data-Platform](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) — 2026-08-17 23:36 UTC
-- Created branch `feature/rf-011-aws-cloud-foundation` in [nainpatel028/RetailFlow-Cloud-AI-Data-Platform](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) — 2026-08-17 23:31 UTC
-- Created branch `feature/rf-003-aws-cloud-foundation` in [nainpatel028/RetailFlow-Cloud-AI-Data-Platform](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) — 2026-08-17 23:28 UTC
-- Merged pull request [#1 ](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) in [nainpatel028/RetailFlow-Cloud-AI-Data-Platform](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) — 2026-08-17 23:24 UTC
-- Pushed commit(s) to [`main`](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform/tree/main) in [nainpatel028/RetailFlow-Cloud-AI-Data-Platform](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) — 2026-08-17 23:24 UTC
-- Opened pull request [#1 ](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) in [nainpatel028/RetailFlow-Cloud-AI-Data-Platform](https://github.com/nainpatel028/RetailFlow-Cloud-AI-Data-Platform) — 2026-08-17 23:21 UTC
+_No recent public activity found._
 <!-- RECENT-ACTIVITY:END -->
 
 🤝 Let's Connect
